@@ -41,8 +41,10 @@ The dataset used is the **Red Wine Quality** dataset, available [here]([https://
 
 Ensure Python 3.8+ is installed, then install the required libraries:
 
-```bash
+
 pip install pandas numpy scikit-learn matplotlib seaborn
+
+
 
 Here’s an updated README.md tailored to your project using the red wine quality dataset:
 
