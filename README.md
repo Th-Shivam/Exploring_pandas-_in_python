@@ -99,7 +99,7 @@ Running the Code
 
     Clone this repository:
 
-git clone https://github.com/your-username/pandas-red-wine-quality.git
+git clone https://github.com/TH-SHIVAM/Exploring_pandas_in_python.git
 cd pandas-red-wine-quality
 
 Open the Jupyter notebooks:
